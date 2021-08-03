@@ -11,7 +11,7 @@ Linux系统目前发展的如火如荼不管是在嵌入式领域，还是服务
 ## 教程
 阅读Linux内核0.11的教程肯定要有赵炯博士写的书啦。《Linux内核完全注释》。
 
-基于0.11内核《Linux内核完全注释：基于0.11内核(修正版V3.0)》[下载链接]{http://www.oldlinux.org/download/clk011c-3.0.pdf)
+基于0.11内核《Linux内核完全注释：基于0.11内核(修正版V3.0)》[下载链接](http://www.oldlinux.org/download/clk011c-3.0.pdf)
 
 基于0.12内核 2019年最新修正版本《Linux内核完全注释：基于0.12内核(V5.0)》[下载链接](http://www.oldlinux.org/download/CLK-5.0-WithCover.pdf)
 
