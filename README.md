@@ -1,4 +1,3 @@
-![](https://img.shields.io/github/stars/mengchaobbbigrui/Linux-0.11code)      ![](https://img.shields.io/github/forks/mengchaobbbigrui/Linux-0.11code)      ![](https://img.shields.io/github/issues/mengchaobbbigrui/Linux-0.11code)
 ## Linux0.11
 **“RTFSC – Read The Fucking Source Code :)!”               –Linus Benedict Torvalds**
 
@@ -12,12 +11,10 @@ Linux系统目前发展的如火如荼不管是在嵌入式领域，还是服务
 ## 教程
 阅读Linux内核0.11的教程肯定要有赵炯博士写的书啦。《Linux内核完全注释》。
 
-基于0.11内核《Linux内核完全注释：基于0.11内核(修正版V3.0)》下载链接https://pan.baidu.com/s/19HHrlhcZXyE2GybhRlEHkA
+基于0.11内核《Linux内核完全注释：基于0.11内核(修正版V3.0)》[下载链接][http://www.oldlinux.org/download/clk011c-3.0.pdf]
 
-基于0.12内核 2019年最新修正版本《Linux内核完全注释：基于0.12内核(V5.0)》下载链接https://pan.baidu.com/s/1wdoPCeL1cW1nWisw9yrGZg
+基于0.12内核 2019年最新修正版本《Linux内核完全注释：基于0.12内核(V5.0)》[下载链接][http://www.oldlinux.org/download/CLK-5.0-WithCover.pdf]
 
-还有新设计团队写的《图解Linux内核设计的艺术》
-下载链接：https://pan.baidu.com/s/1E0E7wv2MUkhjpbja2nhtzw
 
 ## 更多内核版本
 
@@ -32,9 +29,6 @@ Linux系统目前发展的如火如荼不管是在嵌入式领域，还是服务
 ![](https://i.loli.net/2019/10/10/YXQ5gsItZhEqa9d.png)
 Linux中和sourceinsight差不多的软件名是kscope。
 
-这里我分享source insight3.5版本的，内附激活码和汉化说明，需要的自行下载，https://pan.baidu.com/s/1IKf4ebN08i9LyohXNBhKxQ
-
-3.5版本已经很稳定了，想要用4.0版本的请自行寻找。
 
 使用方法：
 
